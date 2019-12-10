@@ -70,7 +70,7 @@ Find the input noun and verb that cause the program to produce the output 196907
 #### Compiling
 Compile from parent directory
 ```sh
-$ make alarm
+$ make wires
 ```
 
 #### Running
